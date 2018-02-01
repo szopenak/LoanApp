@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoanCompanyApp</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="start_header">Hello in Loan Application</string>
+    <string name="go_calc_button">Get loan!</string>
+
+
+    <!--Calculator view-->
+    <string name="enter_loan_value_tv">Please type how much money do You want:</string>
+    <string name="loan_value_et_hint">e.g. 2000,00</string>
+    <string name="rate_number_tv">How many rates?</string>
+    <string name="calculate_loan_button">Calculate</string>
+    <string name="select_location_tv">Select your location:</string>
+    <string name="select_location_button">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="select_location_distance">Distance from our office:</string>
+    <string name="select_location_free_of_charge">No transport charge!</string>
+    <string name="total_percentage">Percentage</string>
+    <string name="transport_cost">Total trasport cost</string>
+    <string name="total_credit_tv">Total credit cost</string>
+    <string name="rrso_value_tv">RRSO value</string>
+    <string name="title_activity_show_office_location">Map</string>
+
+
+</resources>

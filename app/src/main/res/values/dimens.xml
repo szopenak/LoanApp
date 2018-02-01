@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--Calculator-->
+    <dimen name="min_input_width">200dp</dimen>
+    <dimen name="def_margin_calc">15dp</dimen>
+    <dimen name="bigger_margin_calc">25</dimen>
+</resources>
